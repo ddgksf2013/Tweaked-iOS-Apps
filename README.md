@@ -1,7 +1,7 @@
 ### Tweaks injected into iOS apps
 
 <table>
-    <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr>
+    <tr> <th> 类别 </th> <th> 序号 </th> <th> 名称 </th> <th> 链接 </th> <th> 作者 </th> </tr>
 	<tr>
 		<td colspan="5">  </td>
     </tr>
