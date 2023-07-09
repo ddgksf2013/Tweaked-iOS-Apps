@@ -22,16 +22,27 @@
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="4"><strong>音乐视频</strong></td>
+		<td rowspan="2"><strong>音乐</strong></td>
 		<td > 1 </td> <td > Spotify </td> <td ><a href="https://github.com/purp0s3/Tweaked-iOS-Apps/releases/tag/19.may.23"><em>v8.8.36.ipa</em></a> </td><td>purp0s3</td>
     </tr>
+	
 	<tr>
-	<td > 2 </td> <td > Youtube </td> <td ><a href="https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa"><em>v18.14.1.ipa</em></a> </td><td>qnblackcat</td>
+	<td > 2 </td> <td > YoutubeMusic </td> <td ><a href="https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.06.3.ipa"><em>v6.06.3.ipa</em></a> </td><td>ginsudev</td>
     </tr>
+	
 	<tr>
-	<td > 3 </td> <td > YoutubeMusic </td> <td ><a href="https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.06.3.ipa"><em>v6.06.3.ipa</em></a> </td><td>ginsudev</td>
+		<td rowspan="2"><strong>视频</strong></td>
+	<td > 1 </td> <td > Youtube </td> <td ><a href="https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa"><em>v18.14.1.ipa</em></a> </td><td>qnblackcat</td>
     </tr>
-	<tr>
-	<td > 4 </td> <td > TikTok </td> <td ><a href="https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/TikTok26.9.0_DLTikTok1.9.3.ipa"><em>v26.9.0.ipa</em></a> </td><td>purp0s3</td>
+    <tr>
+	<td >2 </td> <td > TikTok </td> <td ><a href="https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/30.jan.23/TikTok26.9.0_DLTikTok1.9.3.ipa"><em>v26.9.0.ipa</em></a> </td><td>purp0s3</td>
+    </tr>
+    <tr>
+		<td rowspan="1"><strong>工具</strong></td>
+	<td > 1 </td> <td > Youtube </td> <td ><a href="https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa"><em>v18.14.1.ipa</em></a> </td><td>qnblackcat</td>
+    </tr>
+    <tr>
+		<td rowspan="1"><strong>相机</strong></td>
+	<td > 1 </td> <td > Youtube </td> <td ><a href="https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa"><em>v18.14.1.ipa</em></a> </td><td>qnblackcat</td>
     </tr>
 </table>
