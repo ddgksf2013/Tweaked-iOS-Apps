@@ -25,7 +25,6 @@
 		<td rowspan="2"><strong>音乐</strong></td>
 		<td > 1 </td> <td > Spotify </td> <td ><a href="https://github.com/purp0s3/Tweaked-iOS-Apps/releases/tag/19.may.23"><em>v8.8.36.ipa</em></a> </td><td>purp0s3</td>
     </tr>
-	
 	<tr>
 	<td > 2 </td> <td > YoutubeMusic </td> <td ><a href="https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.06.3.ipa"><em>v6.06.3.ipa</em></a> </td><td>ginsudev</td>
     </tr>
