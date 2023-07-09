@@ -58,7 +58,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="1"><strong>相机</strong></td>
-	<td > 1 </td> <td > Youtube </td> <td ><a href="https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa"><em>v18.14.1.ipa</em></a> </td><td>qnblackcat</td>
+		<td rowspan="1"><strong>更多</strong></td>
+	<td > 1 </td> <td > More </td> <td ><a href="https://pan.quark.cn/s/6e92d187b299"><em>v0.0.0.ipa</em></a> </td><td>ddgksf2013</td>
     </tr>
 </table>
