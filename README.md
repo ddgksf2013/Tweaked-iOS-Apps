@@ -1,3 +1,1 @@
-### Tweaks injected into iOS apps
-
-#### https://t.me/ddgksf2023
+### https://t.me/ddgksf2023
